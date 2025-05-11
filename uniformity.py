@@ -11,11 +11,7 @@ from scipy.signal import savgol_filter
 
 # Define file paths
 file_paths = [
-    r"C:\Users\natha\Downloads\New folder\Niobium uniformity\S20241016_03 20x20 150ss piece 1 (edited).txt",
-    r"C:\Users\natha\Downloads\New folder\Niobium uniformity\S20241016_03 20x20 150ss piece 2 (edited).txt",
-    r"C:\Users\natha\Downloads\New folder\Niobium uniformity\S20241016_03 20x20 150ss piece 3 (edited).txt",
-    r"C:\Users\natha\Downloads\New folder\Niobium uniformity\S20241016_03 20x20 150ss piece 4 (edited).txt",
-    r"C:\Users\natha\Downloads\New folder\Niobium uniformity\S20241016_03 20x20 150ss piece 5 (edited).txt"
+    r"filepath"
 ]
 
 dataset_labels = [
